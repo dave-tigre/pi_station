@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+9b8520f73b7274c8ca6c231b2b44b2c5 CMakeFiles/WeatherWidget_autogen
+18d55aec6a4c3e987a47f20b389c298c CMakeFiles/pi_station_autogen

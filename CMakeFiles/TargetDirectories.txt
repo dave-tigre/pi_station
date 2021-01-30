@@ -1,0 +1,6 @@
+/home/dave-tigre/Documents/git/pi_station/CMakeFiles/rebuild_cache.dir
+/home/dave-tigre/Documents/git/pi_station/CMakeFiles/edit_cache.dir
+/home/dave-tigre/Documents/git/pi_station/CMakeFiles/WeatherWidget.dir
+/home/dave-tigre/Documents/git/pi_station/CMakeFiles/pi_station.dir
+/home/dave-tigre/Documents/git/pi_station/CMakeFiles/WeatherWidget_autogen.dir
+/home/dave-tigre/Documents/git/pi_station/CMakeFiles/pi_station_autogen.dir
